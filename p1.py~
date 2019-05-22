@@ -1,0 +1,5 @@
+
+
+f=open("c.txt",'r')
+
+print f
